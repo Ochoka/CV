@@ -1,0 +1,28 @@
+
+/*This file sets the styles for the website*/
+body{
+  background-color: #f9f7d9;
+
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 3.5px;
+  width: 2.5%;
+}
+.profile-picture{
+  border-radius: 50%;
+}
+h2{
+  color: #16a596;
+}
+h3 {
+  color: #16a596;
+}
+h4 {
+  color: #16a596;
+}
+th{
+  color: #158467;
+}
